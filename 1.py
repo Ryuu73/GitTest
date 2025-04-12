@@ -11,3 +11,4 @@ v = 2+2
 while v != 6:
     v+=1
 print(v)
+print(v)
