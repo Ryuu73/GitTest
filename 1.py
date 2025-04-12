@@ -15,3 +15,6 @@ print(v)
 print(b)
 
 c = 2+3
+
+
+s = 1+1+1
